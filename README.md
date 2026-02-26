@@ -14,5 +14,5 @@ This project combines nuclear physics instrumentation principles with embedded e
 
 **Authors of project:**
 
-Caslav Lukic
-Medic Zarko
+- Caslav Lukic
+- Medic Zarko
